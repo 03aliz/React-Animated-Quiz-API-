@@ -1,0 +1,26 @@
+.Answer {
+    width:40%;
+    border:3px solid#38b6ff;
+    border-radius:10px;
+    margin: 20px auto;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+.Answer p {
+    display:inline-block;
+    font-size:1.2em;
+    font-weight: bold;
+    pointer-events: none;
+}
+
+.Selected {
+    border:2px solid black;
+}
+
+.Active {
+    background-color: #39CCCC;
+}
+
+
